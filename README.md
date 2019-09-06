@@ -1,7 +1,7 @@
 # TestProject
 This is first and test project
 
-
+want change only in master not in sub
 
 Changes are made in sub branch
 
